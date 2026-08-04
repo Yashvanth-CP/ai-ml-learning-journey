@@ -1,0 +1,9 @@
+figure.figsize: 6, 4
+axes.grid: True
+axes.spines.top: False
+axes.spines.right: False
+font.size: 11
+axes.labelsize: 12
+axes.titlesize: 13
+legend.fontsize: 10
+lines.linewidth: 2

@@ -14,11 +14,7 @@ X_train = np.array([
 ])
 
 y_train = np.array([0, 0, 0, 1, 1, 1])
-
-
-# -----------------------------
-# Plot training data
-# -----------------------------
+ 
 
 fig, ax = plt.subplots(figsize=(5, 5))
 
